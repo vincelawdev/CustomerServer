@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "surname": "Smith",
+    "email": "john@gmail.com",
+    "mobile": "0428888731",
+    "policies": [
+      "motor",
+      "property"
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Ken",
+    "surname": "Socks",
+    "mobile": "0429999731",
+    "policies": [
+      "motor"
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Jack",
+    "surname": "Sun",
+    "email": "jack@gmail.com",
+    "policies": [
+      "property"
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "John",
+    "surname": "Rain",
+    "policies": [
+      "motor"
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "John",
+    "mobile": "0423333731",
+    "policies": [
+      "motor"
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "John",
+    "surname": "Smith",
+    "mobile": "0422222731",
+    "policies": [
+      "motor"
+    ]
+  }
+]
