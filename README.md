@@ -1,7 +1,9 @@
 # CustomerServer
 Express Node.js Server with List of Customers.
 
-This project was created with Express and has been deployed to Heroku. It can be viewed at:
+This project was created with Express and has been deployed to Heroku.
+
+Connect to the API at: https://customer-server.herokuapp.com/search
 
 ## Installation
 
