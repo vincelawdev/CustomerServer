@@ -1,0 +1,23 @@
+{
+  "name": "customerserver",
+  "version": "1.0.0",
+  "description": "Express Node.js Server with List of Customers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincelawdev/CustomerServer.git"
+  },
+  "author": "Vince Law",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincelawdev/CustomerServer/issues"
+  },
+  "homepage": "https://github.com/vincelawdev/CustomerServer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
